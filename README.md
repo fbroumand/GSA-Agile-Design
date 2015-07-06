@@ -17,7 +17,7 @@ Vision: Usable, responsive site that informs the consumers of recalls
 
 We then assigned the user experience team to create personas of the target audiences.   We held a focus group to drill down on needs(Play 3). The results from this sculpted the approach and design.  We then white-boarded the design for an application the overarching ideas was visualize the data in a way that the consumer can see how it impacts them to drive usage (Play 2).
 
-Wireframes, Mock-ups and usability testing to set user needs epics and user stories. In parallel the development team was setting up the github repository, code deploy, AWS EC2 and selecting the technology stack (Play 7,8,9,10,11,12,13)
+Wireframes, Mock-ups and usability testing to set user needs epics and user stories. In parallel the development team was setting up the github repository, code deploy, AWS EC2 and selecting the [technology stack](https://github.com/INCATech/GSA-Agile-Design/blob/master/Documents/Pool%201%20%20-%20Technology%20uses.xlsx) (Play 7,8,9,10,11,12,13)
 
 ### Running the Site Locally
 The local environment must have a webserver(tomcat) and php container(apache) as well as mysql. The application is being ran on a LAMP stack on AWS
