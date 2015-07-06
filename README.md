@@ -20,7 +20,7 @@ We then assigned the user experience team to create personas of the target audie
 Wireframes, Mock-ups and usability testing to set user needs epics and user stories. In parallel the development team was setting up the github repository, code deploy, AWS EC2 and selecting the technology stack (Play 7,8,9,10,11,12,13)
 
 ### Running the Site Locally
-
+The local environment must have a webserver(tomcat) and php container(apache) as well as mysql. The application is being ran on a LAMP stack on AWS
 
 ### Editing the Stylesheets
 This project uses Bootstraps style sheet as a foundation pulled from bootstrap.min.css file. We continued to overlay this style sheet with a custom file called foodwise.css.  Additional CSS is generated from the Font Awesome set used for the button icons.
