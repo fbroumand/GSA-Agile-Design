@@ -2,8 +2,8 @@
 The White House mandated all government agencies [enable open data ](https://cio.gov/worldclassdigitalservices/digital-strategy). The FDA created openFDA in support of this initiative. INCATech has consumed the restful api and built a consumer focused site around the food recall api.
 
 ## We Want Your Feedback
-We encourage your feedback and suggestions on these documents. Content and feature suggestions and discussions are welcome via [GitHub Issues](https://github.com/Incatech-Corp/gsa-agile/issues). You may also propose changes to the content directly by submitting a pull request.
-If you would like to see and discuss the changes that other people have proposed, visit the ["Pull Requests"](https://github.com/Incatech-Corp/gsa-agile/pulls) section and browse [the issues](https://github.com/Incatech-Corp/gsa-agile/issues).
+We encourage your feedback and suggestions on these documents. Content and feature suggestions and discussions are welcome via [GitHub Issues](https://github.com/INCATech/GSA-Agile-Design/issues). You may also propose changes to the content directly by submitting a pull request.
+If you would like to see and discuss the changes that other people have proposed, visit the ["Pull Requests"](https://github.com/INCATech/GSA-Agile-Design/pulls) section and browse [the issues](https://github.com/INCATech/GSA-Agile-Design/issues).
 Feedback will be reviewed by INCATech 
 ## Technical Details
 During Sprint 0, the team was divided into multidisciplinary teams. These teams were assigned to scrub the RFQ and brainstorm ideas on how to use the data available through the open FDA APIs (Play 1). The groups reconvened the Program Manager led the discovery session where each team presented its findings. The end result of the discovery process was identification of the business owner, project lead, the audiences, the api used, the mission and the vision. The project was agile and iterative (Play 4)
