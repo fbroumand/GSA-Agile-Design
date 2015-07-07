@@ -1,7 +1,7 @@
 ## FoodWize
 The White House mandated all government agencies [enable open data ](https://cio.gov/worldclassdigitalservices/digital-strategy). The FDA created openFDA in support of this initiative. INCATech has consumed the restful api and built a consumer focused site around the food recall api.
 
-## We Want Your Feedback
+## We Want Your Feedback 
 We encourage your feedback and suggestions on these documents. Content and feature suggestions and discussions are welcome via [GitHub Issues](https://github.com/INCATech/GSA-Agile-Design/issues). You may also propose changes to the content directly by submitting a pull request.
 If you would like to see and discuss the changes that other people have proposed, visit the ["Pull Requests"](https://github.com/INCATech/GSA-Agile-Design/pulls) section and browse [the issues](https://github.com/INCATech/GSA-Agile-Design/issues).
 Feedback will be reviewed by INCATech 
