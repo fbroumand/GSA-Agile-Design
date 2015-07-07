@@ -5,7 +5,7 @@
 
 .jumbotron	{
 
-    background-image: url("http://www.billsantrydesign.com/pool_1_prototype/img/sponge.png");
+    background-image:url(http://ec2-52-27-96-28.us-west-2.compute.amazonaws.com/img/sponge.png);
     background-repeat:no-repeat;
     background-size: cover;
     text-align: left;
